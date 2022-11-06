@@ -18,7 +18,7 @@
        $ git clone https://github.com/RIDWAN-XD778/kre
        $ cd jmbf
        $ git pull
-       $ python wan
+       $ python jmbf
 
 <h3 align="left">ADMIN NEED :</h3>
 
